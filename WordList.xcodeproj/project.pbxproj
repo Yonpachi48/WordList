@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E92012F52643C4870057B031 /* ListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E92012F42643C4870057B031 /* ListTableViewCell.swift */; };
 		E97D890E26402ABF00563CBE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97D890D26402ABF00563CBE /* AppDelegate.swift */; };
 		E97D891026402ABF00563CBE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97D890F26402ABF00563CBE /* SceneDelegate.swift */; };
 		E97D891226402ABF00563CBE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E97D891126402ABF00563CBE /* ViewController.swift */; };
@@ -23,6 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E92012F42643C4870057B031 /* ListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListTableViewCell.swift; sourceTree = "<group>"; };
 		E97D890A26402ABF00563CBE /* WordList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WordList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E97D890D26402ABF00563CBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E97D890F26402ABF00563CBE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				E97D8928264046EC00563CBE /* QuestionViewController.swift */,
 				E97D892E2640481600563CBE /* AddViewController.swift */,
 				E97D8930264048AF00563CBE /* ListTableViewController.swift */,
+				E92012F42643C4870057B031 /* ListTableViewCell.swift */,
 				E97D891326402ABF00563CBE /* Main.storyboard */,
 				E97D891626402AC200563CBE /* Assets.xcassets */,
 				E97D891826402AC200563CBE /* LaunchScreen.storyboard */,
@@ -170,6 +173,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E97D892B2640472400563CBE /* FinishViewController.swift in Sources */,
+				E92012F52643C4870057B031 /* ListTableViewCell.swift in Sources */,
 				E97D891226402ABF00563CBE /* ViewController.swift in Sources */,
 				E97D892F2640481600563CBE /* AddViewController.swift in Sources */,
 				E97D890E26402ABF00563CBE /* AppDelegate.swift in Sources */,
